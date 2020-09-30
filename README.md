@@ -9,6 +9,8 @@ This will mainly contain two folders namely,
 ├── DS/ALGO
 ├── CP
 2 directories
+Important -- add new file for every contribution
+
 ```
  ###  :fire: Contribution
 
